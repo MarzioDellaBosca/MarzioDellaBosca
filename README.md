@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarxDB
-- 👀 I’m interested in computer science, robotics and theoretical physics
-- 🌱 I’m currently learning java and javaFX
+- 👀 I’m interested in computer science.
+- 🌱 I’m currently learning java and javaFX.
 - 📫 How to reach me marziodellabosca149@gmail.com
 
 <!---
