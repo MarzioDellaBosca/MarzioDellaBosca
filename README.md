@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarxDB
-- 👀 I’m interested in computer science.
+- 👀 I’m studing computer science at University of Urbino 'Carlo Bo'.
 - 🌱 I’m currently learning java and javaFX.
 
 <!---
