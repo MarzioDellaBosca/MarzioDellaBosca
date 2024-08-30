@@ -6,8 +6,8 @@ Skills:
 
 - Languages: C, Python, Java, Dart (Flutter), Assembly, Prolog, Haskell, SQL, HTML, CSS;
 - Technologies: WinMIPS64, TkGate2.0, Wireshark;
-- Most frequently used Python libraries: Pandas, Scikit-learn, Scapy, PyTorch;
-- Tools: Git, Oracle VM virtual box, JavaFX Scene Builder
+- Most frequently used Python libraries: Pandas, Scikit-learn, Scapy, NumPy, PyTorch, Matplotlib;
+- Tools: Git, Oracle VM virtual box, JavaFX Scene Builder, Jupyter Notebook
 - IDEs: Visual Studio Code, Apache NetBeans, Eclipse, gVim
 
 Education:
