@@ -1,6 +1,6 @@
 I'm Marzio, a computer science student at the University of Urbino "Carlo Bo". 
 
-Currently, I'm working as a teaching assistant and managing the social channels for my undergraduate program.
+Research Fellow at University of Urbino "Carlo Bo" (CTE SQUARE Project), developing AI models to recognize human activities using sensor data. Currently working on creating datasets for training and evaluating machine learning models for automatic activity recognition (HAR).
 
 Skills:
 
