@@ -5,9 +5,8 @@ Research Fellow at University of Urbino "Carlo Bo" (CTE SQUARE Project), develop
 Skills:
 
 - Languages: C, Python, Java, Dart (Flutter), Assembly, Prolog, Haskell, SQL, HTML, CSS;
-- Technologies: WinMIPS64, TkGate2.0, Wireshark;
 - Most frequently used Python libraries: Pandas, Scikit-learn, Scapy, NumPy, PyTorch, Matplotlib;
-- Tools: Git, Oracle VM virtual box, JavaFX Scene Builder, Jupyter Notebook, NuSMV
+- Tools: Git, Oracle VM virtual box, JavaFX Scene Builder, Jupyter Notebook, NuSMV, WinMIPS64, TkGate2.0, Wireshark, etc..;
 - IDEs: Visual Studio Code, Apache NetBeans, Eclipse, gVim
 
 Education:
