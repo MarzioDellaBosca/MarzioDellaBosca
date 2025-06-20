@@ -4,7 +4,7 @@ Researcher at University of Urbino "Carlo Bo", currently working on creating dat
 
 Skills:
 
-- Languages: C, Python, Java, Dart (Flutter), Assembly, Prolog, Haskell, SQL, HTML, CSS;
+- Languages: C, Python, Java, Dart (Flutter), Assembly, Prolog, Haskell, Erlang, SQL, HTML, CSS;
 - Most frequently used Python libraries: Pandas, Scikit-learn, Scapy, NumPy, PyTorch, Matplotlib;
 - Tools: Git, Oracle VM virtual box, JavaFX Scene Builder, Jupyter Notebook, NuSMV, WinMIPS64, TkGate2.0, Wireshark, etc..;
 - IDEs: Visual Studio Code, Apache NetBeans, Eclipse, gVim
