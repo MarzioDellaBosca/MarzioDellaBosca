@@ -1,4 +1,4 @@
-I'm Marzio, an ex - computer science student at the University of Urbino "Carlo Bo". 
+I'm Marzio, MSc Graduate in Computer Science and Digital Innovation (Artificial Intelligence focus). Graduated at the University of Urbino "Carlo Bo". 
 
 Skills:
 
